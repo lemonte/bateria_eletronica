@@ -5,6 +5,7 @@
 #define NOTE_B0 31
 #define NOTE_C1 33
 #define NOTE_CS1 35
+#define NOTE_D_SUS_2 73.42
 #define NOTE_D1 37
 #define NOTE_DS1 39
 #define NOTE_E1 41
